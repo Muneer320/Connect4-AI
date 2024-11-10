@@ -31,13 +31,13 @@ To improve performance, the Minimax algorithm employs alpha-beta pruning, which 
 ## Project Structure
 The Connect4 AI backend project is organized as follows:
 
-`
+
 backend/
     ├── connect4_ai.py    # Connect4 AI class implementing the Minimax algorithm
     ├── api.py           # API
 frontend/
     ...                   # Frontend code and assets (separate repository)
-`
+
 ## Getting Started
 To run the Connect4 game with the AI backend, follow these steps:
 
